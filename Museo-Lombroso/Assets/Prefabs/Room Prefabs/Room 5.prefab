@@ -93,7 +93,6 @@ MonoBehaviour:
   _fader: {fileID: 5568909530742901261}
   buttons:
   - {fileID: 3625487518987304815}
-  - {fileID: 0}
 --- !u!1 &457981104799677987
 GameObject:
   m_ObjectHideFlags: 0
