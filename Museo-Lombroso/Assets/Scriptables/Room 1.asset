@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7b71c411efaab194cba20643b0fe52c4, type: 3}
-  m_Name: Room 2
+  m_Name: Room 1
   m_EditorClassIdentifier: Assembly-CSharp::RoomContent
-  _roomSprite: {fileID: 21300000, guid: f7c92a5c9ce9bfe4fa6b05f17929b1b4, type: 3}
-  _description: 
+  _roomPrefab: {fileID: 126216331122148216, guid: f5befe60b87333f4583f55393df2843d, type: 3}
+  _description: lorem ipsum cacacacacaca

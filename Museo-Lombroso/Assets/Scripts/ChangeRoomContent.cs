@@ -1,15 +1,22 @@
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class ChangeRoomContent : MonoBehaviour
 {
-    [SerializeField] private Image _roomImage;
+    [SerializeField] private GameObject _roomContainer;
     [SerializeField] private TMP_Text _roomText;
 
     public void UpdateRoom(RoomContent room)
     {
-        _roomImage.sprite = room._roomSprite;
+        var roomObj = Instantiate(room._roomPrefab, _roomContainer.transform);
+
         _roomText.text = room._description;
+
+        roomObj.GetComponent<HighlightObject>().Init(_roomText);
+    }
+
+    public void DestroyRoom(GameObject roomContainer)
+    {
+        Destroy(roomContainer.transform.GetChild(0).gameObject);
     }
 }
