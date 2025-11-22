@@ -14,11 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
   m_TableCollectionName: Texts
   m_TableCollectionNameGuidString: ba718376424a4d74abfc4131416ba2fa
-  m_Entries:
-  - m_Id: 15482886201344
-    m_Key: Room 1
-    m_Metadata:
-      m_Items: []
+  m_Entries: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

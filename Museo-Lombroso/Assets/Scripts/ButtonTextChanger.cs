@@ -1,20 +1,15 @@
-using TMPro;
 using UnityEngine;
 using UnityEngine.Localization;
-using UnityEngine.Localization.PropertyVariants;
-using UnityEngine.Localization.PropertyVariants.TrackedProperties;
+using UnityEngine.Localization.Components;
 
 public class ButtonTextChanger : MonoBehaviour
 {
     public LocalizedString _objectDescription;
 
-    public void OnButtonPressed(GameObjectLocalizer target)
+    public void OnButtonPressed(LocalizeStringEvent target)
     {
-        var trackedObj = target.TrackedObjects[0];
 
-        if (trackedObj.TrackedProperties[0] is LocalizedStringProperty trackedProp)
-        {
-            trackedProp.LocalizedString = _objectDescription;
-        }
+        target.StringReference = _objectDescription;
+
     }
 }
