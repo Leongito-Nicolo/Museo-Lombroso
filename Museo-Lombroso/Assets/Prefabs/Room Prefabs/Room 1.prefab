@@ -240,7 +240,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _objectDescription: sasasassasassasasasass
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
+    m_TableEntryReference:
+      m_KeyId: 404658255159296
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &4468859760035542061
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,7 +666,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
-  _objectDescription: klklklklklklkllkklkklkllklklklk
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
+    m_TableEntryReference:
+      m_KeyId: 404775985078272
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &8005763368614225996
 GameObject:
   m_ObjectHideFlags: 0

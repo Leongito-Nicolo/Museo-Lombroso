@@ -2,22 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Localization;
+using UnityEngine.Localization.PropertyVariants;
+using UnityEngine.Localization.PropertyVariants.TrackedProperties;
 using UnityEngine.UI;
 
 public class HighlightObject : MonoBehaviour
 {
     [SerializeField] private Image _fader;
     [SerializeField] private List<Button> buttons;
-    private TMP_Text targetText;
-    private string originalText;
+    private GameObjectLocalizer targetText;
+    private LocalizedString originalText;
 
     private float alphaValue = 0.87f;
     private bool isFading;
 
-    public void Init(TMP_Text textToModify)
+    public void Init(GameObjectLocalizer textToModify)
     {
+        Debug.Log(textToModify);
         targetText = textToModify;
-        originalText = textToModify.text;
+
+        var trackedObj = textToModify.TrackedObjects[0];
+
+        if (trackedObj.TrackedProperties[0] is LocalizedStringProperty trackedProp)
+        {
+            originalText = trackedProp.LocalizedString;
+        }
     }
 
     public void OnButtonPressed(Button clickedButton)
@@ -35,7 +45,12 @@ public class HighlightObject : MonoBehaviour
         if (isFading) return;
 
         StartCoroutine(Fade(0f));
-        targetText.text = originalText;
+        var trackedObj = targetText.TrackedObjects[0];
+
+        if (trackedObj.TrackedProperties[0] is LocalizedStringProperty trackedProp)
+        {
+            trackedProp.LocalizedString = originalText;
+        }
     }
 
     private IEnumerator Fade(float targetAlpha)
