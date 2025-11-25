@@ -12,5 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b71c411efaab194cba20643b0fe52c4, type: 3}
   m_Name: Room 8
   m_EditorClassIdentifier: Assembly-CSharp::RoomContent
-  _roomPrefab: {fileID: 126216331122148216, guid: e41617d1cfb7bbe4680e32c9eec62cf8, type: 3}
-  _description: 
+  _roomPrefab: {fileID: 126216331122148216, guid: 00cfc5be7d597f84fa478a549b3456f4, type: 3}
+  _description:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
