@@ -17,7 +17,264 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: ba718376424a4d74abfc4131416ba2fa, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1510115985891328
+    m_Localized: "Cesare Lombroso (1835\u20131909) fu un medico e criminologo italiano
+      la cui opera influenz\xF2 profondamente gli inizi della scienza forense. Figura
+      pionieristica \u2014 e controversa \u2014 cerc\xF2 di spiegare il comportamento
+      criminale tramite lo studio biologico e antropologico, avanzando teorie oggi
+      riconosciute come scientificamente infondate e condizionate dal contesto culturale
+      dell\u2019epoca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510280289361920
+    m_Localized: Il Museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510306809946112
+    m_Localized: "Il Museo di Antropologia Criminale conserva le collezioni di laboratorio,
+      i materiali di ricerca e gli archivi personali di Lombroso, permettendo ai
+      visitatori di esplorare le origini della criminologia moderna e, allo stesso
+      tempo, di interrogarsi criticamente sui presupposti e sui pregiudizi che hanno
+      guidato la scienza del XIX secolo. Attraverso questa prospettiva storica, il
+      museo invita a riflettere su come le idee riguardo a crimine, identit\xE0 e
+      societ\xE0 siano cambiate nel tempo \u2014 e su come continuino a influenzare
+      i dibattiti contemporanei."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510330079944704
+    m_Localized: Pseudoscienza e controversie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510366939488256
+    m_Localized: "Le teorie sviluppate da Cesare Lombroso sono oggi ampiamente riconosciute
+      come forme di pseudoscienza basate su idee ottocentesche riguardo a biologia,
+      razza, classe sociale e \u201Cdevianza\u201D. Il suo lavoro contribu\xEC a
+      rafforzare stereotipi razzisti, classisti e abilisti, alimentando pratiche
+      discriminatorie rivolte a gruppi marginalizzati.\nIl Museo Lombroso non sostiene
+      queste teorie: le presenta nel loro contesto storico per favorire una riflessione
+      critica su come l\u2019autorit\xE0 scientifica possa essere usata in modo improprio
+      e su come tali narrazioni abbiano influenzato politiche sociali, giustizia
+      penale e percezioni pubbliche della diversit\xE0. I visitatori sono invitati
+      ad affrontare le collezioni con consapevolezza delle loro implicazioni etiche
+      e storiche e a confrontarsi con la complessa eredit\xE0 del lavoro di Lombroso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510424854437888
+    m_Localized: Biglietti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510449139458048
+    m_Localized: "Luned\xEC\u2013sabato, 10:00\u201318:00 (ultimo ingresso 17:30).\nChiuso
+      la domenica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510561253203968
+    m_Localized: "   - Intero: \u20AC5,00\n\n   - Ridotto: \u20AC3,00"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1510829806100480
+    m_Localized: "Ingresso gratuito tutti i mercoled\xEC dell\u2019anno e per i possessori
+      di <b>Abbonamento Musei Torino Piemonte</b> e <b>Torino+Piemonte Card</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511004293341184
+    m_Localized: "Riduzioni e gratuit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511031820558336
+    m_Localized: 'Hanno diritto al biglietto ridotto:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511066113187840
+    m_Localized: "Visitatori over 65; ragazzi 10\u201318 anni; studenti universitari
+      (escluso UniTo) con tessera valida; soci ANMS e FAI; gruppi con prenotazione."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511084433907712
+    m_Localized: "Hanno diritto all\u2019ingresso gratuito:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511102742044672
+    m_Localized: "Bambini sotto i 10 anni; studenti e personale dell\u2019Universit\xE0
+      di Torino; soci ICOM; direttori e curatori di musei italiani e stranieri; classi
+      scolastiche di ogni ordine e grado di istituti pubblici con prenotazione; persone
+      con disabilit\xE0 e accompagnatori; guide turistiche abilitate; personale dirigente
+      del Ministero della Cultura; giornalisti iscritti all\u2019albo; amministratori
+      comunali, circoscrizionali e regionali di Torino e Piemonte; personale dell\u2019Istituto
+      Sperimentale per la Nutrizione delle Piante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511122329444352
+    m_Localized: Visite guidate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511136397139968
+    m_Localized: "\u20AC35,00 (1 ora)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511183239127040
+    m_Localized: Servizi educativi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511206299410432
+    m_Localized: "Il museo offre attivit\xE0 educative per studenti di tutte le et\xE0,
+      dalla scuola primaria all\u2019universit\xE0, promuovendo l\u2019apprendimento
+      scientifico e culturale attraverso collezioni uniche. I percorsi trattano temi
+      quali anatomia umana, criminologia, biodiversit\xE0, culture del mondo e storia
+      della scienza. Tutte le attivit\xE0 adottano un approccio sperimentale e investigativo
+      volto a stimolare curiosit\xE0, pensiero critico e competenze scientifiche."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511248955482112
+    m_Localized: Scuola primaria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511270891692032
+    m_Localized: "Anno scolastico 2025\u201326"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511319684030464
+    m_Localized: "Le attivit\xE0 per le scuole primarie sono pensate come esperienze
+      pratiche che collegano la didattica in classe all\u2019osservazione diretta
+      e al racconto scientifico guidato. Gli studenti sono invitati a esplorare,
+      confrontare passato e presente e sviluppare curiosit\xE0 e spirito critico.\nA
+      causa dei contenuti del museo, le attivit\xE0 sono offerte <b>solo per le classi
+      4\xAA e 5\xAA</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511400323719168
+    m_Localized: Visite guidate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511418870931456
+    m_Localized: "Percorso di 60 minuti che stimola osservazione attenta e riflessione
+      critica. Ogni studente riceve un quaderno didattico gratuito da utilizzare
+      durante e dopo la visita.\nCosto: \u20AC35 a classe (max 25 studenti)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511433576161280
+    m_Localized: Laboratori didattici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511475179462656
+    m_Localized: "<b>Da Sherlock Holmes alle impronte digitali</b>\nLaboratorio pratico
+      di 90 minuti dedicato a metodi investigativi, sperimentazione e basi dell\u2019osservazione
+      forense.\nCosto: \u20AC75 a classe (max 25 studenti)\n\nL\u2019ingresso al
+      museo \xE8 gratuito per tutte le classi scolastiche.\nPrenotazione obbligatoria
+      per visite e laboratori:\nTel. 011 6707732 (lun\u2013ven, 9:00\u201313:00 /
+      14:00\u201315:00)\nEmail: <i>didattica.musei@unito.it</i>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511645451427840
+    m_Localized: Scuole medie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511680289316864
+    m_Localized: "Anno scolastico 2025\u201326"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511694713528320
+    m_Localized: "Le visite per le scuole medie offrono un\u2019esperienza immersiva
+      che combina osservazione diretta, analisi guidata e riflessione critica. Gli
+      studenti esplorano temi quali metodo scientifico, contesto storico e rapporto
+      tra scienza e societ\xE0."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511709863354368
+    m_Localized: Visite guidate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511732172857344
+    m_Localized: "Percorso di 60 minuti che favorisce domande attive, confronto di
+      fonti e approccio interdisciplinare.\nCosto: \u20AC35 a classe (max 25 studenti)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511746253135872
+    m_Localized: Laboratori didattici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511789450272768
+    m_Localized: "<b>Da Sherlock Holmes alle impronte digitali</b>\nLaboratorio pratico
+      di 90 minuti sui metodi investigativi, la sperimentazione e l\u2019osservazione
+      forense.\nCosto: \u20AC75 a classe (max 25 studenti)\n\nIngresso gratuito per
+      tutte le scuole.\nPrenotazione obbligatoria:\nTel. 011 6707732 \u2014 <i>didattica.musei@unito.it</i>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511963157372928
+    m_Localized: Scuole superiori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511998339194880
+    m_Localized: "Anno scolastico 2025\u201326"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512014537596928
+    m_Localized: "Le attivit\xE0 per le scuole superiori sono pensate come esplorazioni
+      critiche e approfondite del rapporto tra scienza, storia, societ\xE0 e identit\xE0
+      all\u2019interno delle collezioni museali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512032136896512
+    m_Localized: Visite guidate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512102907387904
+    m_Localized: "Visita di 60 minuti con analisi approfondita delle fonti e degli
+      oggetti museali, collegata all\u2019educazione civica e all\u2019Agenda ONU
+      2030.\nCosto: \u20AC35 a classe (max 25 studenti)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512124071845888
+    m_Localized: Laboratori didattici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512151263518720
+    m_Localized: "<b>Da Sherlock Holmes alle impronte digitali</b>\nLaboratorio partecipativo
+      di 90 minuti basato su indagine pratica e ragionamento scientifico.\nCosto:
+      \u20AC75 a classe (max 25 studenti)\n\nIngresso gratuito per tutte le scuole.\nPrenotazione
+      obbligatoria:\nTel. 011 6707732 \u2014 <i>didattica.musei@unito.it</i>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512241482997760
+    m_Localized: Sede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512263553425408
+    m_Localized: "<b>Via Pietro Giuria 15 \u2013 10126 Torino</b>\nTel. +39 011 6708195
+      \u2013 Fax +39 011 6708196\nEmail: <i>museo.lombroso@unito.it</i>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512343647854592
+    m_Localized: Archivio storico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512370160050176
+    m_Localized: "L\u2019Universit\xE0 di Torino conserva un vasto patrimonio archivistico,
+      i cui inventari \u2014 conformi agli standard internazionali \u2014 vengono
+      progressivamente resi disponibili online.\nL\u2019Archivio Storico raccoglie
+      la documentazione prodotta dagli uffici amministrativi dell\u2019Ateneo, mentre
+      i documenti generati da specifici istituti scientifici sono conservati presso
+      le strutture che ne hanno ereditato le funzioni.\n\nL\u2019Archivio del Museo
+      \xE8 consultabile online dal sito del museo.\nPer la consultazione in presenza
+      \xE8 necessaria la prenotazione via email a museo.lombroso@unito.it"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512388019396608
+    m_Localized: Storia del museo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1512421288615936
+    m_Localized: "Cesare Lombroso inizi\xF2 a raccogliere materiali di anatomia e
+      antropologia criminale nel 1859. La collezione cambi\xF2 pi\xF9 volte sede
+      \u2014 Via della Zecca, Via Po, Via Michelangelo e Corso Galileo Galilei \u2014
+      prima di essere esposta parzialmente nella mostra La scienza e la colpa del
+      1985.\nNel 2001 trov\xF2 sede stabile in Via Giuria 15, nel Palazzo degli Istituti
+      Anatomici, insieme ai Musei di Anatomia Umana, Antropologia ed Etnografia e,
+      dal 2006, al Museo della Frutta, formando un centro dedicato al positivismo
+      scientifico torinese tra XIX e XX secolo."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
