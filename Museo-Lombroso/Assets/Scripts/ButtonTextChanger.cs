@@ -4,12 +4,10 @@ using UnityEngine.Localization.Components;
 
 public class ButtonTextChanger : MonoBehaviour
 {
-    public LocalizedString _objectDescription;
+    [SerializeField] private LocalizedString _objectDescription;
 
     public void OnButtonPressed(LocalizeStringEvent target)
     {
-
         target.StringReference = _objectDescription;
-
     }
 }

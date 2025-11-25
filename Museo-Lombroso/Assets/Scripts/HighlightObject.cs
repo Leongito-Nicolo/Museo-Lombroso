@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class HighlightObject : MonoBehaviour
 {
     [SerializeField] private Image _fader;
-    [SerializeField] private List<Button> buttons;
+    [SerializeField] private List<Button> _buttons;
     private LocalizeStringEvent targetText;
     private LocalizedString originalText;
 
@@ -17,7 +17,6 @@ public class HighlightObject : MonoBehaviour
 
     public void Init(LocalizeStringEvent textToModify)
     {
-        Debug.Log(textToModify);
         targetText = textToModify;
 
         originalText = targetText.StringReference;
@@ -25,7 +24,7 @@ public class HighlightObject : MonoBehaviour
 
     public void OnButtonPressed(Button clickedButton)
     {
-        foreach (var btn in buttons)
+        foreach (var btn in _buttons)
             btn.gameObject.SetActive(btn == clickedButton);
 
         StartCoroutine(Fade(alphaValue));
@@ -59,7 +58,7 @@ public class HighlightObject : MonoBehaviour
         {
             _fader.gameObject.SetActive(false);
 
-            foreach (var btn in buttons)
+            foreach (var btn in _buttons)
                 btn.gameObject.SetActive(true);
         }
 

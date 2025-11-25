@@ -69,7 +69,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 709cd8d6ab20ed244973e11a8043698b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -92,7 +92,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   _fader: {fileID: 5568909530742901261}
-  buttons:
+  _buttons:
   - {fileID: 3625487518987304815}
   - {fileID: 637792476392231196}
 --- !u!1 &457981104799677987
@@ -129,10 +129,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.15100001, y: 0.5116667}
-  m_AnchorMax: {x: 0.39900002, y: 0.7583334}
-  m_AnchoredPosition: {x: 0.5, y: 0.3717041}
-  m_SizeDelta: {x: -0.9308, y: -0.18350005}
+  m_AnchorMin: {x: 0, y: 0.14833334}
+  m_AnchorMax: {x: 0.59300005, y: 0.7383334}
+  m_AnchoredPosition: {x: -21.5, y: -0.31860352}
+  m_SizeDelta: {x: 47.59729, y: 0.5885925}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9221205341573425500
 CanvasRenderer:
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: aebd73401650f2248baca8f12d89cec4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -240,7 +240,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _objectDescription: sasasassasassasasasass
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &4468859760035542061
 GameObject:
   m_ObjectHideFlags: 0
@@ -523,6 +534,7 @@ GameObject:
   - component: {fileID: 2425493319700603573}
   - component: {fileID: 637792476392231196}
   - component: {fileID: 8458912058016168869}
+  - component: {fileID: 1984437610315125589}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -544,10 +556,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.597, y: 0.535}
-  m_AnchorMax: {x: 0.86500007, y: 0.8016667}
-  m_AnchoredPosition: {x: 0.070373535, y: -0.09008789}
-  m_SizeDelta: {x: -0.23810005, y: -0.17996001}
+  m_AnchorMin: {x: 0.781, y: 0.24916667}
+  m_AnchorMax: {x: 0.96900004, y: 0.4391667}
+  m_AnchoredPosition: {x: 0.5987549, y: 0.0126953125}
+  m_SizeDelta: {x: 0.26000214, y: 0.23498535}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8784136633015259215
 CanvasRenderer:
@@ -577,7 +589,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 26cc3f9901714dc43947e7f78babe237, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -643,6 +655,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1984437610315125589}
+        m_TargetAssemblyTypeName: CollectableSaver, Assembly-CSharp
+        m_MethodName: OnCollectableObtained
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &8458912058016168869
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -655,7 +679,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
-  _objectDescription: klklklklklklkllkklkklkllklklklk
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &1984437610315125589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7132736316542455798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31f8dd8f09dedc4dbde7cf7bb318ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CollectableSaver
+  _img: {fileID: 2425493319700603573}
 --- !u!1 &8005763368614225996
 GameObject:
   m_ObjectHideFlags: 0

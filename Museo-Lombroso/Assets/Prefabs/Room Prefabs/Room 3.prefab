@@ -71,7 +71,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 9bc3caa561d14b345b995084474be48c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   _fader: {fileID: 5568909530742901261}
-  buttons:
+  _buttons:
   - {fileID: 3625487518987304815}
   - {fileID: 637792476392231196}
   - {fileID: 6879164503784192013}
@@ -133,10 +133,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.15100001, y: 0.5116667}
-  m_AnchorMax: {x: 0.39900002, y: 0.7583334}
-  m_AnchoredPosition: {x: 0.5, y: 0.3717041}
-  m_SizeDelta: {x: -0.9308, y: -0.18350005}
+  m_AnchorMin: {x: 0.63900006, y: 0.15833333}
+  m_AnchorMax: {x: 0.89400005, y: 0.8208334}
+  m_AnchoredPosition: {x: 0.35168457, y: -0.46984863}
+  m_SizeDelta: {x: -1.2481995, y: 0.42489624}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9221205341573425500
 CanvasRenderer:
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: eb47bf070b9dae34aadf1868730c1a12, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -244,7 +244,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _objectDescription: sasasassasassasasasass
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &1505294378022528866
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,6 +269,7 @@ GameObject:
   - component: {fileID: 3536845395754541689}
   - component: {fileID: 3029833751689706418}
   - component: {fileID: 813537344587896797}
+  - component: {fileID: 3984144711105586888}
   m_Layer: 5
   m_Name: Button (3)
   m_TagString: Untagged
@@ -279,10 +291,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.597, y: 0.535}
-  m_AnchorMax: {x: 0.86500007, y: 0.8016667}
-  m_AnchoredPosition: {x: 0.070373535, y: -0.09008789}
-  m_SizeDelta: {x: -0.23810005, y: -0.17996001}
+  m_AnchorMin: {x: 0.263, y: 0.47083336}
+  m_AnchorMax: {x: 0.40500003, y: 0.6125}
+  m_AnchoredPosition: {x: 0.611145, y: 0.35351562}
+  m_SizeDelta: {x: -0.74938965, y: -0.33169556}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3332506784637375505
 CanvasRenderer:
@@ -312,7 +324,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: d4bf0c647ea5cd445b60d12ccaeb4503, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -378,6 +390,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 3984144711105586888}
+        m_TargetAssemblyTypeName: CollectableSaver, Assembly-CSharp
+        m_MethodName: OnCollectableObtained
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &813537344587896797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -390,7 +414,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
-  _objectDescription: klklklklklklkllkklkklkllklklklk
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &3984144711105586888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1505294378022528866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31f8dd8f09dedc4dbde7cf7bb318ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CollectableSaver
+  _img: {fileID: 3536845395754541689}
 --- !u!1 &2665932971499152487
 GameObject:
   m_ObjectHideFlags: 0
@@ -425,10 +473,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.597, y: 0.535}
-  m_AnchorMax: {x: 0.86500007, y: 0.8016667}
-  m_AnchoredPosition: {x: 0.070373535, y: -0.09008789}
-  m_SizeDelta: {x: -0.23810005, y: -0.17996001}
+  m_AnchorMin: {x: 0.349, y: 0.65666664}
+  m_AnchorMax: {x: 0.42800003, y: 0.73583335}
+  m_AnchoredPosition: {x: 0.40460205, y: 0.49041748}
+  m_SizeDelta: {x: 0.041900635, y: 0.05909729}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3451974242297167759
 CanvasRenderer:
@@ -458,7 +506,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: fe12918a1e591154180f55cb608a9163, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -536,7 +584,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
-  _objectDescription: klklklklklklkllkklkklkllklklklk
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &4468859760035542061
 GameObject:
   m_ObjectHideFlags: 0
@@ -819,6 +878,7 @@ GameObject:
   - component: {fileID: 2425493319700603573}
   - component: {fileID: 637792476392231196}
   - component: {fileID: 8458912058016168869}
+  - component: {fileID: 828373222542938396}
   m_Layer: 5
   m_Name: Button (1)
   m_TagString: Untagged
@@ -840,10 +900,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1725205741095841403}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.597, y: 0.535}
-  m_AnchorMax: {x: 0.86500007, y: 0.8016667}
-  m_AnchoredPosition: {x: 0.070373535, y: -0.09008789}
-  m_SizeDelta: {x: -0.23810005, y: -0.17996001}
+  m_AnchorMin: {x: 0.275, y: 0.32583335}
+  m_AnchorMax: {x: 0.41200003, y: 0.45916668}
+  m_AnchoredPosition: {x: 0.3427124, y: -0.11853027}
+  m_SizeDelta: {x: -0.0552001, y: 0.37069988}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8784136633015259215
 CanvasRenderer:
@@ -873,7 +933,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 2e94b6e9f3573544aa4916fbc9a6da03, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -939,6 +999,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 828373222542938396}
+        m_TargetAssemblyTypeName: CollectableSaver, Assembly-CSharp
+        m_MethodName: OnCollectableObtained
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &8458912058016168869
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -951,7 +1023,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1079407823e1732409329daecfd97117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
-  _objectDescription: klklklklklklkllkklkklkllklklklk
+  _objectDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &828373222542938396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7132736316542455798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31f8dd8f09dedc4dbde7cf7bb318ed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CollectableSaver
+  _img: {fileID: 2425493319700603573}
 --- !u!1 &8005763368614225996
 GameObject:
   m_ObjectHideFlags: 0
