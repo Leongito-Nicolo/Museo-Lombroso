@@ -292,6 +292,16 @@ MonoBehaviour:
       positivism of the 19th and early 20th centuries."
     m_Metadata:
       m_Items: []
+  - m_Id: 1810668506882048
+    m_Localized: The first room welcomes the visitors with an overview of Lombroso's
+      statistical studies throughout Italy of the time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811814667558912
+    m_Localized: "<b>Carta geografica dell\u2019Italia con distribuzione di dati
+      sul \u201Cdifetto di statura\u201D tra i militari (1863-1876).</b>\n\n"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

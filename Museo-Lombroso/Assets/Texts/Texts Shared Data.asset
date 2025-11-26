@@ -206,6 +206,14 @@ MonoBehaviour:
     m_Key: Main/Canvas/Pages/Info Page/Viewport/Content/History/Description(L)_txt
     m_Metadata:
       m_Items: []
+  - m_Id: 1810668506882048
+    m_Key: Room1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1811814667558912
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

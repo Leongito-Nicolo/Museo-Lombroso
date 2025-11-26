@@ -275,6 +275,11 @@ MonoBehaviour:
       scientifico torinese tra XIX e XX secolo."
     m_Metadata:
       m_Items: []
+  - m_Id: 1810668506882048
+    m_Localized: La prima stanza accoglie i visitatori con una presentazione degli
+      studi statistici di Lombroso sull'Italia dell'epoca
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
