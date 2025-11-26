@@ -401,6 +401,146 @@ MonoBehaviour:
       historical context of these practices.'
     m_Metadata:
       m_Items: []
+  - m_Id: 1926171959271424
+    m_Localized: 'This room contains one of the most important displays of the museum:
+      the "Revelation Skull", that first sparked in Lombroso the idea of looking
+      for a correlation between criminal behaviour and biological evolution.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929134412963840
+    m_Localized: '<b>Revelation Skull</b>
+
+      This skull was studied by Cesare
+      Lombroso as part of his theory of atavism, which suggested that criminals represented
+      a return to a more primitive human condition. Lombroso believed that certain
+      cranial features, such as a small depression observed in the skull of the so-called
+      Villella criminal, were evidence of innate criminality.
+
+
+      <b>Scientific
+      note</b>
+
+      Modern research has shown that these features have no scientific
+      basis and fall within normal individual variation. The skull is displayed to
+      illustrate historical scientific practices and to encourage critical reflection
+      on the assumptions and biases of 19th-century criminology.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929421072670720
+    m_Localized: The next sections of the museum focuses on patients of the Collegno
+      Asylum, as Lombroso used their works to study human psychology
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1931740132712448
+    m_Localized: "<b>Dress by Giuseppe Versino</b>\nThis dress was created by Giuseppe
+      Versino using pieces of cloth that had been used to clean the floors during
+      his detention at the Collegno Asylum. Lombroso and his contemporaries studied
+      the personal belongings, creative works, and everyday objects of patients as
+      part of a broader attempt to understand \u201Cmadness\u201D through physical,
+      behavioral, and material traces.\n\n<b>Historical and ethical context</b>\nToday,
+      such objects are displayed as historical documents that shed light on 19th-century
+      psychiatric practices and the lives of institutionalized individuals. They
+      invite reflection on the ethical dimensions of studying personal artifacts
+      and creations within a framework that often sought to classify and pathologize
+      human behavior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1932224629350400
+    m_Localized: This section focuses on asylum's patients' belongings and creations,
+      such as many decorate pots, studied by Lombroso to undersand criminal psychology.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1933352335089664
+    m_Localized: '<b>Decorated Pots from Collegno Asylum</b>
+
+      These ceramic
+      pots were painted and decorated by patients of the Collegno Asylum and later
+      collected by Cesare Lombroso. Each object reflects the personal expression
+      and creativity of its maker. The museum preserves an interactive catalog that
+      classifies the pots according to the type of drawings they feature, allowing
+      visitors to explore patterns, motifs, and the artistic diversity of the collection.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934222913216512
+    m_Localized: "<b>Patient\u2019s Shoe</b>\nThis shoe belonged to a patient of
+      the Collegno Asylum and is preserved in Lombroso\u2019s collection. It provides
+      a tangible connection to the everyday life of the asylum\u2019s residents and
+      serves as a reminder of the personal histories behind the museum\u2019s anthropological
+      and psychiatric collections."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934749415809024
+    m_Localized: "<b>Hand-Made Playing Card Set</b>\nThis set of hand-crafted playing
+      cards was used by Lombroso to study potential links between patients\u2019
+      recreational activities and criminal behavior. Each card provides insight into
+      the personal habits, creativity, and daily life of the asylum\u2019s residents,
+      illustrating how leisure practices were examined as part of Lombroso's criminal
+      anthropology research."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935407690850304
+    m_Localized: '<b>Wooden Model of Philadelphia Jail</b>
+
+      This detailed wooden
+      model represents the Philadelphia jail, a key reference in 19th-century studies
+      of criminal behavior and penitentiary systems. Lombroso and his contemporaries
+      used models like this to analyze prison layouts and study how environments
+      might influence criminal conduct, reflecting early efforts to connect architecture,
+      social conditions, and criminology.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935849736937472
+    m_Localized: "<b>Model of a French Jail Cell</b>\nThis small-scale model reconstructs
+      a typical French jail cell from the 19th century. Such models were used by
+      Lombroso and other criminologists to study how the design of prison spaces
+      might affect inmate behavior, reflecting the period\u2019s interest in the
+      relationship between environment and criminality."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1936099583238144
+    m_Localized: "<b>Model of a Swedish Jail Cell</b>\nThis small-scale model reconstructs
+      a typical Swedish jail cell from the 19th century. Such models were used by
+      Lombroso and other criminologists to study how the design of prison spaces
+      might affect inmate behavior, reflecting the period\u2019s interest in the
+      relationship between environment and criminality."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935030568394752
+    m_Localized: This room contains 3 detailed models of different jails and cells
+      of the XIX century. These models can provide interesitng depictions of what
+      a prisoner's life were like at the time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1937201452064768
+    m_Localized: A faithful reconstruction of Lombroso's study room. Looks like something
+      is missing here...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1938980147339264
+    m_Localized: This gallery primarly contains various information about Lombroso's
+      conclusions. Science now consider all of these incorrect, but Lombroso can
+      be considered one of the first pioneers of what today's Criminology.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1940493817126912
+    m_Localized: "<b>Gallows</b>\nThese are actual gallows used for public executions
+      in the 19th century. Objects like these reflect the criminal justice practices
+      of the time and provide context for the study of crime and punishment in Lombroso\u2019s
+      era. They serve as a sobering reminder of how legal systems, societal norms,
+      and ideas about criminality were historically intertwined."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941376403546112
+    m_Localized: "<b>Native American Outfit of Edgar Laplante</b>\nThis costume belonged
+      to Edgar Laplante, an early 20th-century performer who falsely claimed to be
+      a Native American chief named \u201CWhite Elk.\u201D The outfit illustrates
+      the period\u2019s fascination with exotic personas and theatrical impersonation,
+      as well as the ways such performances intersected with the public\u2019s imagination
+      of \u201Cthe other.\u201D Preserved in Lombroso\u2019s collection, it offers
+      insight into cultural attitudes and the social curiosities after Lombroso's
+      death."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
