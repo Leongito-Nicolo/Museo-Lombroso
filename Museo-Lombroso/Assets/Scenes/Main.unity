@@ -1729,7 +1729,7 @@ MonoBehaviour:
   pages:
   - {fileID: 522693458}
   - {fileID: 1510321085}
-  - {fileID: 0}
+  - {fileID: 638942453}
   - {fileID: 1825132997}
   - {fileID: 804572465}
 --- !u!1 &258527830
@@ -6329,7 +6329,7 @@ MonoBehaviour:
         m_MethodName: ChangePage
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgument: {fileID: 638942453}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
