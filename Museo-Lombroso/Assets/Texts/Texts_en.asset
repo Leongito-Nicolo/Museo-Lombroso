@@ -68,7 +68,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1510561253203968
-    m_Localized: "   - Full price: \u20AC5.00\n\n   - Reduced: \u20AC3.00"
+    m_Localized: "   - <b>Full price:</b> \u20AC5.00\n\n   - <b>Reduced:</b> \u20AC3.00"
     m_Metadata:
       m_Items: []
   - m_Id: 1510829806100480
