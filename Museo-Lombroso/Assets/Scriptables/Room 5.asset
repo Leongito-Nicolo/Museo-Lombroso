@@ -15,9 +15,9 @@ MonoBehaviour:
   _roomPrefab: {fileID: 126216331122148216, guid: 203775f82742da54a852f542d24ac9f6, type: 3}
   _description:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 1929421072670720
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0

@@ -242,9 +242,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   _objectDescription:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 1940493817126912
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -681,9 +681,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ButtonTextChanger
   _objectDescription:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 1941376403546112
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0

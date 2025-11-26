@@ -211,7 +211,111 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1811814667558912
-    m_Key: New Entry
+    m_Key: Room1_Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917459513253888
+    m_Key: Room1_Portrait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918027161968640
+    m_Key: Room2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919163952570368
+    m_Key: Room2_Clock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921569222336512
+    m_Key: Room2_Craniographer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922294769819648
+    m_Key: Room2_Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922794718273536
+    m_Key: Room3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923536921337856
+    m_Key: Room3_Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1924406333448192
+    m_Key: Room3_Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925108338302976
+    m_Key: Room3_Skull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925825237131264
+    m_Key: Room3_Wax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1926171959271424
+    m_Key: Room4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929134412963840
+    m_Key: Room4_Villella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1929421072670720
+    m_Key: Room5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1931740132712448
+    m_Key: Room5_Clothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1932224629350400
+    m_Key: Room6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1933352335089664
+    m_Key: Room6_Pot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934222913216512
+    m_Key: Room6_Shoe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1934749415809024
+    m_Key: Room6_Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935030568394752
+    m_Key: Room7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935407690850304
+    m_Key: Room7_Philadelphia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1935849736937472
+    m_Key: Room7_French
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1936099583238144
+    m_Key: Room7_Swedish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1937201452064768
+    m_Key: Room8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1938980147339264
+    m_Key: Room9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1940493817126912
+    m_Key: Room9_Gallows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1941376403546112
+    m_Key: Room9_Native
     m_Metadata:
       m_Items: []
   m_Metadata:
