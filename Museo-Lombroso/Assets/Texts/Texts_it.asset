@@ -337,6 +337,60 @@ MonoBehaviour:
       a costruire\u2014e talvolta distorcere\u2014idee su identit\xE0 e criminalit\xE0."
     m_Metadata:
       m_Items: []
+  - m_Id: 1922794718273536
+    m_Localized: Questa stanza quella con il maggior numero di elementi, in quanto
+      espone lo scheletro di Lombroso, diversi teschi (oggetto dei suoi studi), calchi
+      in cera di volti e molteplici armi utilizzate dai delinquenti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923536921337856
+    m_Localized: "<b>Scheletro di Cesare Lombroso</b>\nCesare Lombroso decise di
+      donare il proprio corpo alla scienza, in coerenza con i principi positivisti
+      che guidarono il suo lavoro. Il suo scheletro, conservato dal 1909, \xE8 oggi
+      esposto come testimonianza storica e non come modello scientifico. La sua presenza
+      richiama sia l\u2019impegno di Lombroso verso la ricerca, sia le questioni
+      etiche legate alle pratiche scientifiche dell\u2019Ottocento. Il museo lo presenta
+      con un approccio critico e contestualizzato, invitando a riflettere sull\u2019evoluzione
+      del ruolo della scienza, della donazione del corpo e dello studio dei resti
+      umani."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1924406333448192
+    m_Localized: "<b>Arma delle collezioni lombrosiane<\\b>\nQuest\u2019arma \xE8
+      una delle numerose confiscate a persone studiate da Cesare Lombroso e successivamente
+      integrate nella sua raccolta di antropologia criminale. Nell\u2019Ottocento
+      oggetti di questo tipo venivano considerati \u201Cprove\u201D a sostegno di
+      teorie che collegavano il comportamento criminale a tratti innati\u2014idee
+      oggi riconosciute come prive di fondamento scientifico. L\u2019arma \xE8 esposta
+      non per il suo valore funzionale o sensazionalistico, ma come documento storico
+      che mostra come gli oggetti materiali fossero utilizzati per costruire narrazioni
+      su crimine, pericolo e identit\xE0 sociale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925108338302976
+    m_Localized: "<b>Cranio delle collezioni lombrosiane</b>\nQuesto cranio fa parte
+      dei materiali antropologici raccolti da Cesare Lombroso alla fine dell\u2019Ottocento
+      nel tentativo di collegare caratteristiche fisiche al comportamento criminale\u2014un
+      metodo oggi riconosciuto come privo di validit\xE0 scientifica e influenzato
+      dai pregiudizi dell\u2019epoca. Oggi il cranio \xE8 esposto come documento
+      storico che permette di comprendere come i resti umani venissero utilizzati
+      per costruire le prime teorie criminologiche.\n\n<b>Nota etica</b>\nL\u2019identit\xE0
+      dell\u2019individuo \xE8 sconosciuta e non pu\xF2 essere ricostruita. L\u2019esposizione
+      dei resti umani segue rigorose linee guida etiche e ha lo scopo di favorire
+      una riflessione critica sulle pratiche scientifiche del passato, senza esibire
+      n\xE9 spettacolarizzare la persona alla quale i resti appartenevano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925825237131264
+    m_Localized: "<b>Calco in cera del volto</b>\nQuesto calco in cera riproduce
+      il volto di un individuo studiato da Cesare Lombroso. Nell\u2019Ottocento i
+      calchi venivano utilizzati per documentare le caratteristiche facciali a fini
+      antropologici e criminologici. Oggi sono esposti come testimonianze storiche
+      che mostrano come gli scienziati dell\u2019epoca cercassero di registrare e
+      analizzare le caratteristiche umane. Il calco \xE8 presentato a scopo educativo,
+      con piena consapevolezza del contesto storico ed etico di queste pratiche."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

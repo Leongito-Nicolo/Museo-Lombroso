@@ -13,4 +13,15 @@ MonoBehaviour:
   m_Name: Room 3
   m_EditorClassIdentifier: Assembly-CSharp::RoomContent
   _roomPrefab: {fileID: 126216331122148216, guid: e1e53df3b88f75e42bf174ab95cc3fa4, type: 3}
-  _description: 
+  _description:
+    m_TableReference:
+      m_TableCollectionName: GUID:ba718376424a4d74abfc4131416ba2fa
+    m_TableEntryReference:
+      m_KeyId: 1922794718273536
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

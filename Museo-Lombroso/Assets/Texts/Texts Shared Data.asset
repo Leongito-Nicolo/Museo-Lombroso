@@ -234,6 +234,26 @@ MonoBehaviour:
     m_Key: Room2_Camera
     m_Metadata:
       m_Items: []
+  - m_Id: 1922794718273536
+    m_Key: Room3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923536921337856
+    m_Key: Room3_Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1924406333448192
+    m_Key: Room3_Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925108338302976
+    m_Key: Room3_Skull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925825237131264
+    m_Key: Room3_Wax
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

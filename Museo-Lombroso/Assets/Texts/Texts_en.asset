@@ -347,6 +347,60 @@ MonoBehaviour:
       distort\u2014ideas about identity and criminality."
     m_Metadata:
       m_Items: []
+  - m_Id: 1922794718273536
+    m_Localized: This room is the most dense, as it contains both Lombroso's skeleton,
+      many skulls (object of his studies), wax reconstructions of faces and many
+      weapons used by the criminals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923536921337856
+    m_Localized: "<b>Skeleton of Cesare Lombroso</b>\nCesare Lombroso chose to donate
+      his own body for scientific study, in line with the positivist principles that
+      shaped his work. His skeleton has been preserved since his death in 1909 and
+      today is displayed as a historical artifact rather than a scientific model.
+      Its presence highlights both Lombroso\u2019s commitment to research and the
+      ethical questions raised by 19th-century scientific practices. The museum presents
+      it within a critical and contextual framework, inviting reflection on how scientific
+      authority, body donation, and the study of human remains have evolved over
+      time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1924406333448192
+    m_Localized: "<b>Weapon from Lombroso\u2019s Collections<\\b>\nThis object is
+      one of the many weapons confiscated from individuals studied by Cesare Lombroso
+      and later incorporated into his criminal anthropology collection. In the 19th
+      century, such items were used as \u201Cevidence\u201D to support theories linking
+      criminal behavior to innate traits\u2014ideas now recognized as scientifically
+      unfounded. Today, the weapon is presented not for its functional or dramatic
+      value, but as a historical document that helps illustrate how material objects
+      were used to construct narratives about crime, danger, and social identity."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925108338302976
+    m_Localized: "<b>Skull from Lombroso\u2019s Collections</b>\nThis skull is part
+      of the anthropological materials gathered by Cesare Lombroso in the late 19th
+      century as he attempted to link physical traits to criminal behavior\u2014an
+      approach now recognized as scientifically invalid and shaped by the biases
+      of his time. Today, the skull is presented as a historical artifact that helps
+      illustrate how human remains were used to construct early criminological theories.\n\n<b>Ethical
+      note\nThe individual\u2019s identity is unknown and cannot be reconstructed.
+      The display of human remains follows strict ethical guidelines and aims to
+      promote critical reflection on past scientific practices, rather than to exhibit
+      or sensationalize the person to whom the remains once belonged."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1925825237131264
+    m_Localized: '<b>Wax Facial Cast</b>
+
+      This wax cast reproduces the face
+      of an individual studied by Cesare Lombroso. In the 19th century, such casts
+      were used to document facial features for anthropological and criminological
+      research. Today, they are presented as historical artifacts that illustrate
+      how scientists of the period attempted to record and analyze human characteristics.
+      The cast is shown for educational purposes, with awareness of the ethical and
+      historical context of these practices.'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
