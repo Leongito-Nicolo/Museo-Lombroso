@@ -211,7 +211,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1811814667558912
-    m_Key: New Entry
+    m_Key: Room1_Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917459513253888
+    m_Key: Room1_Portrait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918027161968640
+    m_Key: Room2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919163952570368
+    m_Key: Room2_Clock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921569222336512
+    m_Key: Room2_Craniographer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922294769819648
+    m_Key: Room2_Camera
     m_Metadata:
       m_Items: []
   m_Metadata:

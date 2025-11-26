@@ -302,6 +302,51 @@ MonoBehaviour:
       sul \u201Cdifetto di statura\u201D tra i militari (1863-1876).</b>\n\n"
     m_Metadata:
       m_Items: []
+  - m_Id: 1917459513253888
+    m_Localized: '<b>Portrait of Cesare Lombroso</b>
+
+      This portrait depicts
+      Cesare Lombroso, the 19th-century physician whose work shaped the early development
+      of criminal anthropology. Often shown surrounded by books or scientific instruments,
+      Lombroso is presented here as a researcher deeply engaged in his studies. Today,
+      his image invites visitors to reflect not only on his historical influence
+      but also on the controversies and biases that marked his theories.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918027161968640
+    m_Localized: The room focuses on some of the instruments used by Lombroso to
+      study the criminals' bodies as he looked for a correlation between anatomy
+      and behaviour.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919163952570368
+    m_Localized: "<b>19th-Century Pendulum Clock</b>\nThis small pendulum clock is
+      a simple example of the domestic technologies available in the late 1800s.
+      Though not directly linked to Lombroso\u2019s research, it reflects the everyday
+      material culture of the period in which his work developed, as long as the
+      kind of technologies that were available at the time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921569222336512
+    m_Localized: "<b>Anfossi\u2019s Craniographer</b>\nDesigned in the late 19th
+      century by Italian physician Carlo Anfossi, this instrument was used to take
+      precise measurements of the skull. Tools like the craniographer played a key
+      role in anthropometric practices of the time, including those later adopted
+      by Lombroso. Today, such devices illustrate how 19th-century science attempted
+      to classify human diversity through physical measurements\u2014an approach
+      now recognized as scientifically unfounded."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922294769819648
+    m_Localized: "<b>Antique Camera</b>\nThis early photographic camera represents
+      the technology used in the late 19th and early 20th centuries to document people,
+      objects, and scientific specimens. Photography played an important role in
+      Lombroso\u2019s work, providing visual records he used to support his theories.
+      Today, such equipment highlights the growing reliance on images in scientific
+      practice, as well as the ways photographs were used to construct\u2014and sometimes
+      distort\u2014ideas about identity and criminality."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -280,6 +280,63 @@ MonoBehaviour:
       studi statistici di Lombroso sull'Italia dell'epoca
     m_Metadata:
       m_Items: []
+  - m_Id: 1811814667558912
+    m_Localized: "<b>Mappa dell\u2019Italia \u2013 Statistiche sull\u2019altezza
+      dei soldati</b>\nUna mappa suggestiva che mostra le variazioni regionali nell\u2019altezza
+      media dei soldati italiani, rilevate verso la fine dell\u2019Ottocento. Questo
+      grafico nasce dalle rilevazioni antropometriche effettuate da Cesare Lombroso
+      e dai suoi collaboratori, che misurarono migliaia di reclute militari per studiare
+      possibili correlazioni tra caratteristiche fisiche e origine sociale. I colori
+      e i simboli sulla mappa rappresentano i dati regionali \u2014 evidenziando
+      le differenze geografiche. Questo pannello invita i visitatori a riflettere
+      su come l\u2019antropometria veniva utilizzata all\u2019epoca per classificare
+      le persone e su come questi dati fossero interpretati in un contesto storico
+      in cui scienza, cultura e pregiudizi sociali si mescolavano."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917459513253888
+    m_Localized: "<b>Ritratto di Cesare Lombroso</b>\nQuesto ritratto raffigura Cesare
+      Lombroso, il medico ottocentesco che contribu\xEC allo sviluppo iniziale dell\u2019antropologia
+      criminale. Spesso rappresentato tra libri e strumenti scientifici, Lombroso
+      appare come uno studioso immerso nelle sue ricerche. Oggi la sua immagine invita
+      a riflettere non solo sulla sua influenza storica, ma anche sulle controversie
+      e sui limiti che caratterizzarono le sue teorie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918027161968640
+    m_Localized: La stanza si concentra su alcuni degli strumenti utilizzati da Lombroso
+      per studiare i criminali con il fine di cercare una correlazione tra struttura
+      anatomica e comportamento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919163952570368
+    m_Localized: "<b>Orologio a pendolo del XIX secolo</b>\nQuesto piccolo orologio
+      a pendolo rappresenta un semplice esempio delle tecnologie domestiche diffuse
+      alla fine dell\u2019Ottocento. Pur non avendo un legame diretto con le ricerche
+      di Lombroso, testimonia la cultura materiale quotidiana dell\u2019epoca in
+      cui operava, oltre al livello tecnologico dell'eopca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921569222336512
+    m_Localized: "<b>Crani\xF3grafo di Anfossi</b>\nIdeato alla fine dell\u2019Ottocento
+      dal medico italiano Carlo Anfossi, questo strumento serviva a rilevare misurazioni
+      precise del cranio. Apparecchi come il crani\xF3grafo furono fondamentali nelle
+      pratiche antropometriche dell\u2019epoca, poi riprese anche da Lombroso. Oggi
+      testimoniano il tentativo, tipico della scienza ottocentesca, di classificare
+      la diversit\xE0 umana tramite misure fisiche, un approccio oggi riconosciuto
+      come privo di validit\xE0 scientifica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922294769819648
+    m_Localized: "<b>Macchina fotografica d\u2019epoca</b>\nQuesta macchina fotografica
+      antica rappresenta la tecnologia utilizzata tra fine Ottocento e inizio Novecento
+      per documentare persone, oggetti e reperti scientifici. La fotografia ebbe
+      un ruolo significativo nel lavoro di Lombroso, offrendo registrazioni visive
+      a supporto delle sue teorie. Oggi strumenti come questo mostrano quanto l\u2019immagine
+      fosse centrale nella pratica scientifica e come le fotografie potessero contribuire
+      a costruire\u2014e talvolta distorcere\u2014idee su identit\xE0 e criminalit\xE0."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
