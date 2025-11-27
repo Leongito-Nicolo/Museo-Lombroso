@@ -21,10 +21,7 @@ MonoBehaviour:
   - m_Id: 1510115985891328
     m_Localized: "Cesare Lombroso (1835\u20131909) was an Italian physician and criminologist
       whose work profoundly influenced the early development of forensic science.
-      A pioneering\u2014and controversial\u2014figure, Lombroso attempted to explain
-      criminal behavior through biological and anthropological study, proposing theories
-      that today are recognized as scientifically flawed and shaped by the cultural
-      beliefs of his time.\n"
+      \n"
     m_Metadata:
       m_Items: []
   - m_Id: 1510280289361920
@@ -32,12 +29,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1510306809946112
-    m_Localized: "The criminal anthropology museum hosts his laboratory collections,
+    m_Localized: The criminal anthropology museum hosts his laboratory collections,
       research materials, and personal archives, allowing visitors to explore the
-      origins of modern criminology while critically examining the assumptions and
-      biases that guided 19th-century scientific thought. Through this historical
-      lens, the museum invites reflection on how ideas about crime, identity, and
-      society have evolved\u2014and how they continue to shape contemporary debates."
+      origins of modern criminology.
     m_Metadata:
       m_Items: []
   - m_Id: 1510330079944704
@@ -45,17 +39,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1510366939488256
-    m_Localized: "The theories developed by Cesare Lombroso are today widely recognized
-      as forms of pseudoscience grounded in 19th-century assumptions about biology,
-      race, class, and social \u201Cdeviance.\u201D His work often reinforced racist,
-      classist, and ableist stereotypes, and contributed to discriminatory practices
-      that targeted marginalized communities. The Lombroso Museum does not endorse
-      these ideas. Instead, it presents them within their historical context to encourage
-      critical reflection on how scientific authority can be misused and how such
-      narratives have shaped social policy, criminal justice, and public perceptions
-      of difference. Visitors are invited to approach the collections with awareness
-      of these ethical and historical issues and to engage thoughtfully with the
-      complex legacy of Lombroso\u2019s work."
+    m_Localized: The theories presented by Lombroso are now wildly recognized as
+      pseudoscientific and incorrect. The museum encourgages critical thinking about
+      Lombroso's theories.
     m_Metadata:
       m_Items: []
   - m_Id: 1510424854437888
@@ -64,11 +50,11 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1510449139458048
     m_Localized: "Monday to Saturday, 10:00\u201318:00 (last admission at 17:30).\nClosed
-      on Sundays."
+      on Sundays.\n"
     m_Metadata:
       m_Items: []
   - m_Id: 1510561253203968
-    m_Localized: "   - <b>Full price:</b> \u20AC5.00\n\n   - <b>Reduced:</b> \u20AC3.00"
+    m_Localized: " - <b>Full price:</b> \u20AC5.00\n\n - <b>Reduced:</b> \u20AC3.00"
     m_Metadata:
       m_Items: []
   - m_Id: 1510829806100480
@@ -96,13 +82,14 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1511102742044672
-    m_Localized: Children under 10; students and staff of the University of Turin;
-      ICOM members; directors and curators of Italian and foreign museums; school
-      classes from public institutions of all levels with advance booking; visitors
-      with disabilities and their companions; officially licensed tour guides; personnel
-      of the Italian Ministry of Culture in managerial roles; registered journalists;
-      and current municipal, district, and regional administrators of Turin and Piedmont,
-      as well as staff of the Experimental Institute for Plant Nutrition.
+    m_Localized: "Children under 10; \n\nStudents and staff of the University of
+      Turin;\n\nICOM members; directors and curators of Italian and foreign museums;\n\nSchool
+      classes from public institutions of all levels with advance booking; \n\nVisitors
+      with disabilities and their companions; \n\nOfficially licensed tour guides;
+      personnel of the Italian Ministry of Culture in managerial roles; registered
+      journalists; and current municipal, district, and regional administrators of
+      Turin and Piedmont, as well as staff of the Experimental Institute for Plant
+      Nutrition."
     m_Metadata:
       m_Items: []
   - m_Id: 1511122329444352
@@ -118,12 +105,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1511206299410432
-    m_Localized: The museum offers educational activities for students of all ages
-      from primary school to college, promoting scientific and cultural learning
-      through their unique collections. Exhibits cover topics such as human anatomy,
-      criminology, biodiversity, world cultures, and the history of science. All
-      activities use a hands-on, investigative approach designed to spark curiosity,
-      support scientific thinking, and build key learning skills.
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 1511248955482112

@@ -20,11 +20,8 @@ MonoBehaviour:
   m_TableData:
   - m_Id: 1510115985891328
     m_Localized: "Cesare Lombroso (1835\u20131909) fu un medico e criminologo italiano
-      la cui opera influenz\xF2 profondamente gli inizi della scienza forense. Figura
-      pionieristica \u2014 e controversa \u2014 cerc\xF2 di spiegare il comportamento
-      criminale tramite lo studio biologico e antropologico, avanzando teorie oggi
-      riconosciute come scientificamente infondate e condizionate dal contesto culturale
-      dell\u2019epoca."
+      la cui opera influenz\xF2 profondamente gli inizi della scienza forense e della
+      disciplina della Criminologia. "
     m_Metadata:
       m_Items: []
   - m_Id: 1510280289361920
@@ -32,14 +29,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1510306809946112
-    m_Localized: "Il Museo di Antropologia Criminale conserva le collezioni di laboratorio,
+    m_Localized: Il Museo di Antropologia Criminale conserva le collezioni di laboratorio,
       i materiali di ricerca e gli archivi personali di Lombroso, permettendo ai
-      visitatori di esplorare le origini della criminologia moderna e, allo stesso
-      tempo, di interrogarsi criticamente sui presupposti e sui pregiudizi che hanno
-      guidato la scienza del XIX secolo. Attraverso questa prospettiva storica, il
-      museo invita a riflettere su come le idee riguardo a crimine, identit\xE0 e
-      societ\xE0 siano cambiate nel tempo \u2014 e su come continuino a influenzare
-      i dibattiti contemporanei."
+      visitatori di esplorare le origini della criminologia moderna.
     m_Metadata:
       m_Items: []
   - m_Id: 1510330079944704
@@ -47,17 +39,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1510366939488256
-    m_Localized: "Le teorie sviluppate da Cesare Lombroso sono oggi ampiamente riconosciute
-      come forme di pseudoscienza basate su idee ottocentesche riguardo a biologia,
-      razza, classe sociale e \u201Cdevianza\u201D. Il suo lavoro contribu\xEC a
-      rafforzare stereotipi razzisti, classisti e abilisti, alimentando pratiche
-      discriminatorie rivolte a gruppi marginalizzati.\nIl Museo Lombroso non sostiene
-      queste teorie: le presenta nel loro contesto storico per favorire una riflessione
-      critica su come l\u2019autorit\xE0 scientifica possa essere usata in modo improprio
-      e su come tali narrazioni abbiano influenzato politiche sociali, giustizia
-      penale e percezioni pubbliche della diversit\xE0. I visitatori sono invitati
-      ad affrontare le collezioni con consapevolezza delle loro implicazioni etiche
-      e storiche e a confrontarsi con la complessa eredit\xE0 del lavoro di Lombroso."
+    m_Localized: Le teorie sviluppate da Cesare Lombroso sono oggi riconosciute come
+      forme di pseudoscienza e pertanto incorrette. Il museo incentiva un'analisi
+      critica delle sue teorie.
     m_Metadata:
       m_Items: []
   - m_Id: 1510424854437888
