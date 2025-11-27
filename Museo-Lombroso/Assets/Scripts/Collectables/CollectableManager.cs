@@ -3,7 +3,8 @@ using UnityEngine;
 
 public class CollectableManager : MonoBehaviour
 {
-    [SerializeField] List<Sprite> _sprites;
+    [SerializeField] private List<Sprite> _sprites;
+    [SerializeField] private GameObject _achievement;
     public static CollectableManager Instance { get; private set; }
     private void Awake()
     {
@@ -36,7 +37,9 @@ public class CollectableManager : MonoBehaviour
     {
         if (AllCollectablesObtained())
         {
-            Debug.Log("Bravo");
+            Debug.Log("bravo");
+            PlayerPrefs.SetInt("achievement", 1);
+            _achievement.SetActive(true);
         }
     }
 
