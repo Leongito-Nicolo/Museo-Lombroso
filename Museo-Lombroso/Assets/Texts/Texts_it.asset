@@ -119,12 +119,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1511319684030464
-    m_Localized: "Le attivit\xE0 per le scuole primarie sono pensate come esperienze
-      pratiche che collegano la didattica in classe all\u2019osservazione diretta
-      e al racconto scientifico guidato. Gli studenti sono invitati a esplorare,
-      confrontare passato e presente e sviluppare curiosit\xE0 e spirito critico.\nA
-      causa dei contenuti del museo, le attivit\xE0 sono offerte <b>solo per le classi
-      4\xAA e 5\xAA</b>."
+    m_Localized: "A causa dei contenuti del museo, le attivit\xE0 sono offerte <b>solo
+      per le classi 4\xAA e 5\xAA</b>."
     m_Metadata:
       m_Items: []
   - m_Id: 1511400323719168
@@ -234,14 +230,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1512370160050176
-    m_Localized: "L\u2019Universit\xE0 di Torino conserva un vasto patrimonio archivistico,
-      i cui inventari \u2014 conformi agli standard internazionali \u2014 vengono
-      progressivamente resi disponibili online.\nL\u2019Archivio Storico raccoglie
-      la documentazione prodotta dagli uffici amministrativi dell\u2019Ateneo, mentre
-      i documenti generati da specifici istituti scientifici sono conservati presso
-      le strutture che ne hanno ereditato le funzioni.\n\nL\u2019Archivio del Museo
-      \xE8 consultabile online dal sito del museo.\nPer la consultazione in presenza
-      \xE8 necessaria la prenotazione via email a museo.lombroso@unito.it"
+    m_Localized: Il Museo conserva lettere, manoscritti e strumenti originali di
+      Lombroso, consultabili online o di persona tramite prenotazione.
     m_Metadata:
       m_Items: []
   - m_Id: 1512388019396608

@@ -117,14 +117,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1511319684030464
-    m_Localized: 'Our activities for primary schools are designed as hands-on experiences
-      that connect classroom learning with direct observation and guided scientific
-      storytelling. Students are encouraged to explore, compare past and present,
-      and develop curiosity and critical thinking.
-
-      Since the contents of the
-      museum may disturb young children, the activities are available for <b>grades
-      4-5 only</b>'
+    m_Localized: Since the contents of the museum may disturb young children, the
+      activities are available for <b>grades 4-5 only</b>
     m_Metadata:
       m_Items: []
   - m_Id: 1511400323719168
@@ -133,9 +127,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1511418870931456
     m_Localized: "A 60-minute tour designed to encourage careful observation and
-      critical thinking. Each student receives a free educational booklet for use
-      during the visit and afterward in class.\nCost: \u20AC35 per class (max 25
-      students)"
+      critical thinking.\nCost: \u20AC35 per class (max 25 students)"
     m_Metadata:
       m_Items: []
   - m_Id: 1511433576161280
@@ -148,8 +140,7 @@ MonoBehaviour:
       forensic observation.\nCost: \u20AC75 per class (max 25 students)\n\nMuseum
       admission is free for all school groups.\nBooking is required for both tours
       and workshops:\nCall 011 6707732 (Mon\u2013Fri, 9:00\u201313:00 / 14:00\u201315:00)
-      or email <i>didattica.musei@unito.it</i>\n\nActivities available from 10 September
-      2025."
+      or email <i>didattica.musei@unito.it</i>"
     m_Metadata:
       m_Items: []
   - m_Id: 1511645451427840
@@ -242,19 +233,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1512370160050176
-    m_Localized: "The University of Turin preserves a vast archival heritage, with
-      inventories progressively made available online in accordance with international
-      standards. The Historical Archive gathers documents produced by the University\u2019s
-      administrative offices, while records created by certain scientific institutes
-      are kept within the institutions that inherited them.\n\nThe Museum\u2019s
-      Archive is available online on the museum's website.\nTo consult materials
-      in person, a reservation is required via email at museo.lombroso@unito.it\n\nMore
-      than 2,600 letters written or received by Cesare Lombroso are accessible online
-      through the #LombrosoProject portal. The collection includes around 800 outgoing
-      letters and about 1,800 incoming letters, allowing for the virtual reconstruction
-      of Lombroso\u2019s surviving correspondence.\n(The project was carried out
-      by the University Museum System with the support of Fondazione CRT and the
-      Department of Historical Studies of the University of Turin.)"
+    m_Localized: The Museum conserves orignial correspondecy and original manuscripts
+      and instruments used by Lombroso, accessible online or in person with booking.
     m_Metadata:
       m_Items: []
   - m_Id: 1512388019396608
