@@ -373,47 +373,37 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1934222913216512
-    m_Localized: "<b>Patient\u2019s Shoe</b>\nThis shoe belonged to a patient of
-      the Collegno Asylum and is preserved in Lombroso\u2019s collection. It provides
-      a tangible connection to the everyday life of the asylum\u2019s residents and
-      serves as a reminder of the personal histories behind the museum\u2019s anthropological
-      and psychiatric collections."
+    m_Localized: "<b>Patient\u2019s Shoe</b>\nAsylum patients' belogings were studied
+      by Lombroso to look for correlations betweek material objects and insanity."
     m_Metadata:
       m_Items: []
   - m_Id: 1934749415809024
     m_Localized: "<b>Hand-Made Playing Card Set</b>\nThis set of hand-crafted playing
       cards was used by Lombroso to study potential links between patients\u2019
-      recreational activities and criminal behavior. Each card provides insight into
-      the personal habits, creativity, and daily life of the asylum\u2019s residents,
-      illustrating how leisure practices were examined as part of Lombroso's criminal
-      anthropology research."
+      recreational activities and criminal behavior."
     m_Metadata:
       m_Items: []
   - m_Id: 1935407690850304
     m_Localized: '<b>Wooden Model of Philadelphia Jail</b>
 
-      This detailed wooden
-      model represents the Philadelphia jail, a key reference in 19th-century studies
-      of criminal behavior and penitentiary systems. Lombroso and his contemporaries
-      used models like this to analyze prison layouts and study how environments
-      might influence criminal conduct, reflecting early efforts to connect architecture,
-      social conditions, and criminology.'
+      Lombroso and his
+      contemporaries used models like this to analyze prison layouts and study how
+      environments might influence criminal conduct, reflecting early efforts to
+      connect architecture, social conditions, and criminology.'
     m_Metadata:
       m_Items: []
   - m_Id: 1935849736937472
-    m_Localized: "<b>Model of a French Jail Cell</b>\nThis small-scale model reconstructs
-      a typical French jail cell from the 19th century. Such models were used by
-      Lombroso and other criminologists to study how the design of prison spaces
-      might affect inmate behavior, reflecting the period\u2019s interest in the
-      relationship between environment and criminality."
+    m_Localized: "<b>Model of a French Jail Cell</b>\nSuch models were used by Lombroso
+      and other criminologists to study how the design of prison spaces might affect
+      inmate behavior, reflecting the period\u2019s interest in the relationship
+      between environment and criminality."
     m_Metadata:
       m_Items: []
   - m_Id: 1936099583238144
-    m_Localized: "<b>Model of a Swedish Jail Cell</b>\nThis small-scale model reconstructs
-      a typical Swedish jail cell from the 19th century. Such models were used by
-      Lombroso and other criminologists to study how the design of prison spaces
-      might affect inmate behavior, reflecting the period\u2019s interest in the
-      relationship between environment and criminality."
+    m_Localized: "<b>Model of a Swedish Jail Cell</b>\nSuch models were used by Lombroso
+      and other criminologists to study how the design of prison spaces might affect
+      inmate behavior, reflecting the period\u2019s interest in the relationship
+      between environment and criminality."
     m_Metadata:
       m_Items: []
   - m_Id: 1935030568394752
@@ -437,19 +427,13 @@ MonoBehaviour:
     m_Localized: "<b>Gallows</b>\nThese are actual gallows used for public executions
       in the 19th century. Objects like these reflect the criminal justice practices
       of the time and provide context for the study of crime and punishment in Lombroso\u2019s
-      era. They serve as a sobering reminder of how legal systems, societal norms,
-      and ideas about criminality were historically intertwined."
+      era."
     m_Metadata:
       m_Items: []
   - m_Id: 1941376403546112
     m_Localized: "<b>Native American Outfit of Edgar Laplante</b>\nThis costume belonged
       to Edgar Laplante, an early 20th-century performer who falsely claimed to be
-      a Native American chief named \u201CWhite Elk.\u201D The outfit illustrates
-      the period\u2019s fascination with exotic personas and theatrical impersonation,
-      as well as the ways such performances intersected with the public\u2019s imagination
-      of \u201Cthe other.\u201D Preserved in Lombroso\u2019s collection, it offers
-      insight into cultural attitudes and the social curiosities after Lombroso's
-      death."
+      a Native American chief named \u201CWhite Elk\u201D."
     m_Metadata:
       m_Items: []
   references:

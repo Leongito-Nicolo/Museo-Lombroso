@@ -366,48 +366,39 @@ MonoBehaviour:
       m_Items:
       - rid: 8722950852884037706
   - m_Id: 1934222913216512
-    m_Localized: "<b>Scarpa di un paziente</b>\nQuesta scarpa appartenne a un paziente
-      dell\u2019Asilo di Collegno ed \xE8 conservata nella collezione di Lombroso.
-      Offre un legame tangibile con la vita quotidiana dei residenti dell\u2019ospedale
-      e ricorda le storie personali dietro le collezioni antropologiche e psichiatriche
-      del museo."
+    m_Localized: '<b>Scarpa di un paziente</b>
+
+      Gli oggetti posseduti dai pazienti
+      dei manicomi furono studiati da Lombroso nel tentativo di trovare collegamenti
+      tra oggetti materiali e "follia".'
     m_Metadata:
       m_Items: []
   - m_Id: 1934749415809024
     m_Localized: "<b>Set di carte da gioco fatte a mano</b>\nQuesto set di carte
       realizzate a mano veniva utilizzato da Lombroso per studiare possibili legami
-      tra le attivit\xE0 ricreative dei pazienti e il comportamento criminale. Ogni
-      carta offre uno sguardo sulle abitudini, la creativit\xE0 e la vita quotidiana
-      dei residenti dell\u2019ospedale, mostrando come le pratiche di svago fossero
-      osservate nell\u2019ambito delle ricerche di antropologia criminale di Lombroso."
+      tra le attivit\xE0 ricreative dei pazienti e il comportamento criminale."
     m_Metadata:
       m_Items: []
   - m_Id: 1935407690850304
     m_Localized: "<b>Modello in legno della prigione di Philadelphia</b>\nQuesto
       dettagliato modello in legno rappresenta la prigione di Philadelphia, un punto
       di riferimento negli studi sul comportamento criminale e sui sistemi penitenziari
-      dell\u2019Ottocento. Lombroso e i suoi contemporanei utilizzavano modelli simili
-      per analizzare la disposizione delle carceri e osservare come gli ambienti
-      potessero influenzare il comportamento criminale, mostrando i primi tentativi
-      di collegare architettura, condizioni sociali e criminologia."
+      dell\u2019Ottocento."
     m_Metadata:
       m_Items: []
   - m_Id: 1935849736937472
-    m_Localized: "<b>Modello di cella carceraria francese</b>\nQuesto modello in
-      scala ricostruisce una tipica cella carceraria francese del XIX secolo. Modelli
-      di questo tipo erano utilizzati da Lombroso e da altri criminologi per studiare
-      come la progettazione degli spazi carcerari potesse influenzare il comportamento
+    m_Localized: "<b>Modello di cella carceraria francese</b>\nModelli di questo
+      tipo erano utilizzati da Lombroso e da altri criminologi per studiare come
+      la progettazione degli spazi carcerari potesse influenzare il comportamento
       dei detenuti, riflettendo l\u2019interesse dell\u2019epoca per il legame tra
       ambiente e criminalit\xE0."
     m_Metadata:
       m_Items: []
   - m_Id: 1936099583238144
-    m_Localized: "<b>Modello di cella carceraria svedese</b>\nQuesto modello in scala
-      ricostruisce una tipica cella carceraria svedese del XIX secolo. Modelli di
-      questo tipo erano utilizzati da Lombroso e da altri criminologi per studiare
-      come la progettazione degli spazi carcerari potesse influenzare il comportamento
-      dei detenuti, riflettendo l\u2019interesse dell\u2019epoca per il legame tra
-      ambiente e criminalit\xE0."
+    m_Localized: "<b>Modello di cella carceraria svedese</b>\nModelli di questo tipo
+      erano utilizzati da Lombroso e da altri criminologi per studiare come la progettazione
+      degli spazi carcerari potesse influenzare il comportamento dei detenuti, riflettendo
+      l\u2019interesse dell\u2019epoca per il legame tra ambiente e criminalit\xE0."
     m_Metadata:
       m_Items: []
   - m_Id: 1935030568394752
@@ -432,20 +423,13 @@ MonoBehaviour:
     m_Localized: "<b>Forca</b>\nQuesta autentica forca dell'epoca fu utilizzata per
       le esecuzioni pubbliche nel XIX secolo. Oggetti di questo tipo documentano
       le pratiche di giustizia penale dell\u2019epoca e offrono contesto per lo studio
-      del crimine e della punizione ai tempi di Lombroso. Sono un monito sul modo
-      in cui sistemi legali, norme sociali e concezioni della criminalit\xE0 erano
-      storicamente interconnessi."
+      del crimine e della punizione ai tempi di Lombroso."
     m_Metadata:
       m_Items: []
   - m_Id: 1941376403546112
     m_Localized: "<b>Abito nativo americano di Edgar Laplante</b>\nQuesto costume
       apparteneva a Edgar Laplante, artista degli inizi del XX secolo che si spacciava
-      per capo nativo americano con il nome \u201CCervo Bianco\u201D. L\u2019abito
-      testimonia il fascino dell\u2019epoca per figure esotiche e l\u2019arte dell\u2019imitazione
-      teatrale, oltre a mostrare come tali rappresentazioni influenzassero l\u2019immaginario
-      pubblico sul \u201Cdiverso\u201D. Conservato nella collezione di Lombroso,
-      offre uno spunto di riflessione sugli atteggiamenti culturali e sulle curiosit\xE0
-      sociali dopo la morte di Lombroso."
+      per capo nativo americano con il nome \u201CCervo Bianco\u201D."
     m_Metadata:
       m_Items: []
   references:

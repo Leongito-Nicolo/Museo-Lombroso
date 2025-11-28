@@ -8,6 +8,13 @@ public class CollectableSaver : MonoBehaviour
     public void OnCollectableObtained()
     {
         string id = _img.sprite.name;
-        PlayerPrefs.SetInt("collected_" + id, 1);
+
+        bool alreadyCollected = PlayerPrefs.GetInt("collected_" + id, 0) == 1;
+
+        if (!alreadyCollected)
+        {
+            PlayerPrefs.SetInt("collected_" + id, 1);
+            Notification.instance.ShowNotification();
+        }
     }
 }
