@@ -261,18 +261,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1811814667558912
     m_Localized: "<b>Carta geografica dell\u2019Italia con distribuzione di dati
-      sul \u201Cdifetto di statura\u201D tra i militari (1863-1876).</b>\n\n"
+      sul \u201Cdifetto di statura\u201D tra i militari (1863-1876).</b>"
     m_Metadata:
       m_Items: []
   - m_Id: 1917459513253888
     m_Localized: '<b>Portrait of Cesare Lombroso</b>
 
-      This portrait depicts
-      Cesare Lombroso, the 19th-century physician whose work shaped the early development
-      of criminal anthropology. Often shown surrounded by books or scientific instruments,
-      Lombroso is presented here as a researcher deeply engaged in his studies. Today,
-      his image invites visitors to reflect not only on his historical influence
-      but also on the controversies and biases that marked his theories.'
+      19th-century physician
+      whose work shaped the early development of criminal anthropology. '
     m_Metadata:
       m_Items: []
   - m_Id: 1918027161968640
@@ -282,60 +278,41 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1919163952570368
-    m_Localized: "<b>19th-Century Pendulum Clock</b>\nThis small pendulum clock is
-      a simple example of the domestic technologies available in the late 1800s.
-      Though not directly linked to Lombroso\u2019s research, it reflects the everyday
-      material culture of the period in which his work developed, as long as the
-      kind of technologies that were available at the time."
+    m_Localized: '<b>19th-Century Pendulum Clock</b>
+
+      This small pendulum clock
+      is a simple example of the domestic technologies available in the late 1800s.'
     m_Metadata:
       m_Items: []
   - m_Id: 1921569222336512
     m_Localized: "<b>Anfossi\u2019s Craniographer</b>\nDesigned in the late 19th
       century by Italian physician Carlo Anfossi, this instrument was used to take
-      precise measurements of the skull. Tools like the craniographer played a key
-      role in anthropometric practices of the time, including those later adopted
-      by Lombroso. Today, such devices illustrate how 19th-century science attempted
-      to classify human diversity through physical measurements\u2014an approach
-      now recognized as scientifically unfounded."
+      precise measurements of the skull."
     m_Metadata:
       m_Items: []
   - m_Id: 1922294769819648
-    m_Localized: "<b>Antique Camera</b>\nThis early photographic camera represents
-      the technology used in the late 19th and early 20th centuries to document people,
-      objects, and scientific specimens. Photography played an important role in
-      Lombroso\u2019s work, providing visual records he used to support his theories.
-      Today, such equipment highlights the growing reliance on images in scientific
-      practice, as well as the ways photographs were used to construct\u2014and sometimes
-      distort\u2014ideas about identity and criminality."
+    m_Localized: "<b>Antique Camera</b>\nPhotography played an important role in
+      Lombroso\u2019s work, providing visual records he used to support his theories."
     m_Metadata:
       m_Items: []
   - m_Id: 1922794718273536
-    m_Localized: This room is the most dense, as it contains both Lombroso's skeleton,
-      many skulls (object of his studies), wax reconstructions of faces and many
-      weapons used by the criminals.
+    m_Localized: This room contains both Lombroso's skeleton, many skulls (object
+      of his studies), wax reconstructions of faces and many weapons used by the
+      criminals.
     m_Metadata:
       m_Items: []
   - m_Id: 1923536921337856
-    m_Localized: "<b>Skeleton of Cesare Lombroso</b>\nCesare Lombroso chose to donate
-      his own body for scientific study, in line with the positivist principles that
-      shaped his work. His skeleton has been preserved since his death in 1909 and
-      today is displayed as a historical artifact rather than a scientific model.
-      Its presence highlights both Lombroso\u2019s commitment to research and the
-      ethical questions raised by 19th-century scientific practices. The museum presents
-      it within a critical and contextual framework, inviting reflection on how scientific
-      authority, body donation, and the study of human remains have evolved over
-      time."
+    m_Localized: '<b>Skeleton of Cesare Lombroso</b>
+
+      Cesare Lombroso chose
+      to donate his own body for scientific study, in line with the positivist principles
+      that shaped his work.'
     m_Metadata:
       m_Items: []
   - m_Id: 1924406333448192
-    m_Localized: "<b>Weapon from Lombroso\u2019s Collections<\\b>\nThis object is
-      one of the many weapons confiscated from individuals studied by Cesare Lombroso
-      and later incorporated into his criminal anthropology collection. In the 19th
-      century, such items were used as \u201Cevidence\u201D to support theories linking
-      criminal behavior to innate traits\u2014ideas now recognized as scientifically
-      unfounded. Today, the weapon is presented not for its functional or dramatic
-      value, but as a historical document that helps illustrate how material objects
-      were used to construct narratives about crime, danger, and social identity."
+    m_Localized: "<b>Weapon from Lombroso\u2019s Collections<\\b>\nIn the 19th century,
+      such items were used as \u201Cevidence\u201D to support theories linking criminal
+      behavior to innate traits\u2014ideas now recognized as scientifically unfounded."
     m_Metadata:
       m_Items: []
   - m_Id: 1925108338302976
@@ -343,12 +320,7 @@ MonoBehaviour:
       of the anthropological materials gathered by Cesare Lombroso in the late 19th
       century as he attempted to link physical traits to criminal behavior\u2014an
       approach now recognized as scientifically invalid and shaped by the biases
-      of his time. Today, the skull is presented as a historical artifact that helps
-      illustrate how human remains were used to construct early criminological theories.\n\n<b>Ethical
-      note\nThe individual\u2019s identity is unknown and cannot be reconstructed.
-      The display of human remains follows strict ethical guidelines and aims to
-      promote critical reflection on past scientific practices, rather than to exhibit
-      or sensationalize the person to whom the remains once belonged."
+      of his time. "
     m_Metadata:
       m_Items: []
   - m_Id: 1925825237131264
@@ -357,16 +329,13 @@ MonoBehaviour:
       This wax cast reproduces the face
       of an individual studied by Cesare Lombroso. In the 19th century, such casts
       were used to document facial features for anthropological and criminological
-      research. Today, they are presented as historical artifacts that illustrate
-      how scientists of the period attempted to record and analyze human characteristics.
-      The cast is shown for educational purposes, with awareness of the ethical and
-      historical context of these practices.'
+      research.'
     m_Metadata:
       m_Items: []
   - m_Id: 1926171959271424
-    m_Localized: 'This room contains one of the most important displays of the museum:
-      the "Revelation Skull", that first sparked in Lombroso the idea of looking
-      for a correlation between criminal behaviour and biological evolution.'
+    m_Localized: This room contains the "Revelation Skull" that first sparked in
+      Lombroso the idea of looking for a correlation between criminal behaviour and
+      biological evolution.
     m_Metadata:
       m_Items: []
   - m_Id: 1929134412963840
@@ -374,18 +343,7 @@ MonoBehaviour:
 
       This skull was studied by Cesare
       Lombroso as part of his theory of atavism, which suggested that criminals represented
-      a return to a more primitive human condition. Lombroso believed that certain
-      cranial features, such as a small depression observed in the skull of the so-called
-      Villella criminal, were evidence of innate criminality.
-
-
-      <b>Scientific
-      note</b>
-
-      Modern research has shown that these features have no scientific
-      basis and fall within normal individual variation. The skull is displayed to
-      illustrate historical scientific practices and to encourage critical reflection
-      on the assumptions and biases of 19th-century criminology.'
+      a return to a more primitive human condition proved by deformities of the skulls.'
     m_Metadata:
       m_Items: []
   - m_Id: 1929421072670720
@@ -394,17 +352,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1931740132712448
-    m_Localized: "<b>Dress by Giuseppe Versino</b>\nThis dress was created by Giuseppe
-      Versino using pieces of cloth that had been used to clean the floors during
-      his detention at the Collegno Asylum. Lombroso and his contemporaries studied
-      the personal belongings, creative works, and everyday objects of patients as
-      part of a broader attempt to understand \u201Cmadness\u201D through physical,
-      behavioral, and material traces.\n\n<b>Historical and ethical context</b>\nToday,
-      such objects are displayed as historical documents that shed light on 19th-century
-      psychiatric practices and the lives of institutionalized individuals. They
-      invite reflection on the ethical dimensions of studying personal artifacts
-      and creations within a framework that often sought to classify and pathologize
-      human behavior."
+    m_Localized: "<b>Dress by Giuseppe Versino</b>\nLombroso and his contemporaries
+      studied the personal belongings, creative works, and everyday objects of asylum
+      patients as part of a broader attempt to understand \u201Cmadness\u201D through
+      physical, behavioral, and material traces."
     m_Metadata:
       m_Items: []
   - m_Id: 1932224629350400
@@ -416,11 +367,9 @@ MonoBehaviour:
     m_Localized: '<b>Decorated Pots from Collegno Asylum</b>
 
       These ceramic
-      pots were painted and decorated by patients of the Collegno Asylum and later
-      collected by Cesare Lombroso. Each object reflects the personal expression
-      and creativity of its maker. The museum preserves an interactive catalog that
-      classifies the pots according to the type of drawings they feature, allowing
-      visitors to explore patterns, motifs, and the artistic diversity of the collection.'
+      pots were painted and decorated by patients of the Collegno Asylum. Each object
+      reflects the personal expression and creativity of its maker, and has been
+      used by Lombroos to llok for correlations between material objects and "insanity".'
     m_Metadata:
       m_Items: []
   - m_Id: 1934222913216512
@@ -480,8 +429,8 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1938980147339264
     m_Localized: This gallery primarly contains various information about Lombroso's
-      conclusions. Science now consider all of these incorrect, but Lombroso can
-      be considered one of the first pioneers of what today's Criminology.
+      conclusions. Science now consider all of these incorrect, but but this was
+      the first try of understaing what it's now Criminology Science.
     m_Metadata:
       m_Items: []
   - m_Id: 1940493817126912
